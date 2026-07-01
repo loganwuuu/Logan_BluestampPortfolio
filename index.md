@@ -7,7 +7,7 @@ The Automated Smart Bridge isn’t any normal bridge; it raises and lowers itsel
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Logan W | Irvine | Structural Engineering | Incoming Junior
+| Logan W | Irvine HS | Structural Engineering | Incoming Junior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
