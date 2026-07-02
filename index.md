@@ -45,11 +45,18 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oUX6LlXqc-Y?si=XsqQbCDUd06W9KgF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+Different Components
+- Soil Moisture Sensor: Detects moisture and sends signals to the Arduino
+- Arduino: Acts as a motherboard and recieves signals from the Soil Moisture Sensor and sends signals to output components
+- Servo: A motor that recieves signals from the Arduino and raises and lowers the bridge with its arm.
+- OLED: A screen that recieves signals from the Ardunio and displays text
+- Red LED: A light that recieves signals from the Arduino and lights up when a flood is detected
+Challenges
+- The physical wiring of the Arduino was the hardest part since I had to learn the basics of wiring it from scratch
+- It took trial and error, but the effort to connect the wires to the right places was incredibly rewarding once the bridge started working
+Next time
+- I plan to make the components more organized and connect multiple soil moisture sensors to the bridge 
+
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
