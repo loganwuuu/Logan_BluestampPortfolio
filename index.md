@@ -51,9 +51,11 @@ Different Components
 - Servo: A motor that recieves signals from the Arduino and raises and lowers the bridge with its arm.
 - OLED: A screen that recieves signals from the Ardunio and displays text
 - Red LED: A light that recieves signals from the Arduino and lights up when a flood is detected
+  
 Challenges
 - The physical wiring of the Arduino was the hardest part since I had to learn the basics of wiring it from scratch
 - It took trial and error, but the effort to connect the wires to the right places was incredibly rewarding once the bridge started working
+  
 Next time
 - I plan to make the components more organized and connect multiple soil moisture sensors to the bridge 
 
