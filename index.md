@@ -45,6 +45,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oUX6LlXqc-Y?si=XsqQbCDUd06W9KgF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 Different Components
 - Soil Moisture Sensor: Detects moisture and sends signals to the Arduino
 - Arduino: Acts as a motherboard and recieves signals from the Soil Moisture Sensor and sends signals to output components
