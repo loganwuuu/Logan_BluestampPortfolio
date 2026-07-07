@@ -55,7 +55,7 @@ Challenges
 - It took trial and error, but the effort to connect the wires to the right places was incredibly rewarding once the bridge started working
   
 Next time
-- I plan to make the components more organized and connect multiple soil moisture sensors to the bridge 
+- I plan to make modifications to the bridge to make it more safer
 
 
 # Schematics 
