@@ -1,5 +1,5 @@
 # Automated Smart Bridge
-The Automated Smart Bridge isn’t any normal bridge; it raises and lowers itself based off environmental conditions. When its sensors detects moisture, it displays a flood alert while simultaneously raising the bridge. The biggest challenge of this project was figuring out the Arduino and connecting the wires correctly in order to ensure that all the components would function correctly. 
+The Automated Smart Bridge isn’t any normal bridge; it raises and lowers itself based off environmental conditions. When its sensors detects moisture, it displays a flood alert while simultaneously raising the bridge. The purpose of this bridge is to ensure that people can cross it safely during floody conditions.
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
@@ -50,12 +50,12 @@ Different Components
 - OLED: A screen that recieves signals from the Ardunio and displays text
 - Red LED: A light that recieves signals from the Arduino and lights up when a flood is detected
   
-Challenges
-- The physical wiring of the Arduino was the hardest part since I had to learn the basics of wiring it from scratch
+Challenges I Overcame
+- The physical wiring of the Arduino was the hardest part since I had to learn the basics of wiring it from scratch, now that I have finished the base project, I feel more confident about my wiring abilities
 - It took trial and error, but the effort to connect the wires to the right places was incredibly rewarding once the bridge started working
   
-Next time
-- I plan to make modifications to the bridge to make it more safer
+Future Iterations
+- I plan to make modifications to the bridge to improve safety
 
 
 # Schematics 
