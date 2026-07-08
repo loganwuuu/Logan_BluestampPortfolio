@@ -201,8 +201,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Uno | What the item is used for | $Price | <a href="https://shorturl.at/KSbxx/"> Link </a> |
-| OLED Module | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Arduino Uno | What the item is used for | $Price | <a href=""> Link </a> |
+| OLED Module | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=sr_1_1_sspa?crid=304YHUORZ27MD&dib=eyJ2IjoiMSJ9.oAZKdk9yLjCgM4o7DR9IOk7GEFPkm_nvsBW48PaUzBOpG4swxSpAAclrO102VNiVTlz9gaad0in55iUnNXdHbNmEAy9oNBKIm4xp9vNDoEcyHVgAM18CHOEURBOAAeToDiIDmlVbyYrEJgpOQI-YDFuZdXq30sLe7W8Fxm0BFzP7BwORKzBGZzGD56YtNRC0ApS-IbfGdypIo5VImYTZz3HjzS0Yndvfs7aNPBeKQo0XJiMswTEftbZbfTWz8gU3WIpA-BlXPn6i-QXJpPexiAogsXEsiaOsTHuNKodN50U.0_b47w0BVblBmYQ7S_jrR7ngTI98cLTLfzzCfqKFOk4&dib_tag=se&keywords=oled%2Bmodule&qid=1783537269&s=industrial&sprefix=oled%2Bmodu%2Cindustrial%2C186&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a> |
 | Breadboard | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Micro Servo | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Female Jumper Wires | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
