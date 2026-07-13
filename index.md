@@ -60,7 +60,8 @@ Future Iterations
 
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+
+<img width="881" height="705" alt="Grand Elzing-Maimu (1)" src="https://github.com/user-attachments/assets/02fe4e1d-d2a6-4e66-9b30-99c0fb837fcf" />
 
 # Code
 
