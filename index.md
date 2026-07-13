@@ -35,10 +35,9 @@ Modifications
 - Added an 8V battery pack to power the second servo since the Arduino's 5V can't power both servos
   
 Challenges I Overcame
-- When I first added the 8V battery pack for my second servo, the Breadboard overheated
-- I immediately unplugged all the wires and diagnosed the problem by checking the wires on my breadboard
-- I found out that I had accidentally plugged my power wires into the ground rail, causing a dead short circuit
-- I plugged my power wires into the positive rail and plugged in the 8V battery pack again and everything went back to normal
+- Breadboard overheated when I added the 8V battery pack for the second servo
+- I  unplugged all the wires and identified a dead short circuit casued by plugging the power wires of the servo into the ground rail
+- I plugged my power wires into the positive rail and system functionaled normally again
   
 Future Iterations
 - I plan to finish the Github and Schematic
@@ -48,11 +47,11 @@ Future Iterations
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bIdyJx_JLe0?si=ucU84TKvC5E5MqnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Different Components
-- Soil Moisture Sensor: Detects moisture and sends signals to the Arduino
+- Soil Moisture Sensor: Detects moisture and sends signals to the Arduino when it detects low resistance (moist soil has low resistance compared to dry soil)
 - Arduino: Acts as a motherboard and recieves signals from the Soil Moisture Sensor and sends signals to output components
 - Servo: A motor that recieves signals from the Arduino and raises and lowers the bridge with its arm.
 - OLED: A screen that recieves signals from the Ardunio and displays text
-- Red LED: A light that recieves signals from the Arduino and lights up when a flood is detected
+- Red LED: A light that recieves signals from the Arduino in Pin 6 and lights up when a flood is detected
   
 Challenges I Overcame
 - The physical wiring of the Arduino was the hardest part since I had to learn the basics of wiring it from scratch, now that I have finished the base project, I feel more confident about my wiring abilities
