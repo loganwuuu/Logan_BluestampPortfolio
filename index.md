@@ -1,9 +1,5 @@
 # Automated Smart Bridge
 The Automated Smart Bridge isn’t any normal bridge; it raises and lowers itself based off environmental conditions. When its sensors detects moisture, it displays a flood alert while simultaneously raising the bridge. The purpose of this bridge is to ensure that people can cross it safely during floody conditions.
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -39,7 +35,10 @@ Modifications
 - Added a second servo to allow an extra arm to raise the bridge
 - Added an 8V battery pack to power the second servo since the Arduino's 5V can't power both servos
 Challenges I Overcame
-- When I first added the 8V Battery Pack 
+- When I first added the 8V battery pack for my second servo, the Breadboard overheated
+- I immediately unplugged all the wires and diagnosed the problem by checking the wires on my breadboard
+- I found out that I had accidentally plugged my power wires into the ground rail, causing a dead short circuit
+- I plugged my power wires into the positive rail and plugged in the 8V battery pack again and everything went back to normal
 Future Iterations
 - I plan to finish the Github and Schematic
 
@@ -66,7 +65,6 @@ Future Iterations
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
 #include <Wire.h>
@@ -172,8 +170,6 @@ void loop() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
