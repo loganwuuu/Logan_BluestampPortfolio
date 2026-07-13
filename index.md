@@ -34,11 +34,13 @@ Modifications
 - Added cardboard to the structure of the bridge to make it more secure
 - Added a second servo to allow an extra arm to raise the bridge
 - Added an 8V battery pack to power the second servo since the Arduino's 5V can't power both servos
+  
 Challenges I Overcame
 - When I first added the 8V battery pack for my second servo, the Breadboard overheated
 - I immediately unplugged all the wires and diagnosed the problem by checking the wires on my breadboard
 - I found out that I had accidentally plugged my power wires into the ground rail, causing a dead short circuit
 - I plugged my power wires into the positive rail and plugged in the 8V battery pack again and everything went back to normal
+  
 Future Iterations
 - I plan to finish the Github and Schematic
 
