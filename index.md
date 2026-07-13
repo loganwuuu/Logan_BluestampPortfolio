@@ -58,12 +58,9 @@ Challenges I Overcame
 Future Iterations
 - I plan to make modifications to the bridge to improve safety
 
-
 # Schematics 
 
 <img width="881" height="705" alt="Grand Elzing-Maimu (1)" src="https://github.com/user-attachments/assets/02fe4e1d-d2a6-4e66-9b30-99c0fb837fcf" />
-<img width="2620" height="4016" alt="IMG_6293 (1)" src="https://github.com/user-attachments/assets/29b2a8e4-b55e-40ef-9f59-5ea3c7f1412d" />
-
 
 # Code
 
