@@ -25,8 +25,6 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-
-
 # Second Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
@@ -34,10 +32,16 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+Modifications
+- Created an E-STOP Button that stops the bridge from moving and returns the Bridge to its neutral position
+- Created two soil moisture sensors to detect water in multiple places
+- Added cardboard to the structure of the bridge to make it more secure
+- Added a second servo to allow an extra arm to raise the bridge
+- Added an 8V battery pack to power the second servo since the Arduino's 5V can't power both servos
+Challenges I Overcame
+- When I first added the 8V Battery Pack 
+Future Iterations
+- I plan to finish the Github and Schematic
 
 # First Milestone
 
