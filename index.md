@@ -49,7 +49,7 @@ Future Iterations
 # Schematics 
 
 <img width="881" height="705" alt="Grand Elzing-Maimu (1)" src="https://github.com/user-attachments/assets/02fe4e1d-d2a6-4e66-9b30-99c0fb837fcf" />
-<img width="2620" height="4016" alt="IMG_6293 (1)" src="https://github.com/user-attachments/assets/155c8a97-a0e5-4313-b693-c3d292249cab" />
+<img width="2558" height="2438" alt="IMG_6293 (1)" src="https://github.com/user-attachments/assets/895c6cc5-ba90-4340-b764-695cf1e310db" />
 
 
 # Code
