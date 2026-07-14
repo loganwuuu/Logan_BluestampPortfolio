@@ -5,9 +5,7 @@ The Automated Smart Bridge isn’t any normal bridge; it raises and lowers itsel
 |:--:|:--:|:--:|:--:|
 | Logan W | Irvine HS | Structural Engineering | Incoming Junior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-![Headstone Image](logo.svg)
+<img width="5712" height="4284" alt="IMG_9308 (1)" src="https://github.com/user-attachments/assets/83a671f6-715e-4569-a1fe-8958649b32cb" />
 
 # Final Milestone
 
