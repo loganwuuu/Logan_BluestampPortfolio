@@ -177,6 +177,6 @@ void loop() {
 
 [Example Project](https://www.instructables.com/Smart-Bridge-Using-Arduino-With-Auto-Height-Increa/)
 
-[Code Creator](https://gemini.google.com/app)
+[Code Maker](https://gemini.google.com/app)
 
-[Code Importer](https://arduino.cc/en/software)
+[Arduino Programmer](https://arduino.cc/en/software)
