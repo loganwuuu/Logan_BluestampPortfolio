@@ -171,3 +171,12 @@ void loop() {
 | Cardboard | Structure of the Bridge | $24.99 | <a href="https://www.amazon.com/Flat-Cardboard-Sheets-Crafts-Corrugated/dp/B0GGRXSC68/ref=sr_1_1_sspa?crid=21V6EK16WH5V2&dib=eyJ2IjoiMSJ9.tqfGW5XW8M3C_WiJKaeDauBeGP0kmcWa_wKJp25xN6O3-MRxf9IWvFO7ozaeWC1u2sux8cpZm1T4LmBXfVA9j2Q_Ue3MbAXiTNMhBFvlMwDxoG0kmbhsnYwmNEWk1S9pf04VdrtMedIi-BRkQZa7daIwT1cz0O2H1lwGMRP68Qh5wsJns0Bhkt6P_d18SePyfdrWo8-gRqDhQTbK8sVUjcB1JDhR-QfmavILOvyBTWKlqQwK8bu8XtyUnPBYvDsAnCYBLFATzx89HY8LMzasJuJpiVfqRNf3oi3uQXwYKRo.C_9HBIIO11PvsXReo3YDT0koKHIOgHXeNixBwTFaIys&dib_tag=se&keywords=cardboard&qid=1783537727&s=industrial&sprefix=cardboard%2Cindustrial%2C216&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 | Construction Paper | Road | $5.38 | <a href="https://www.amazon.com/Cardstock-Construction-Invitations-Scrapbooking-Decoration/dp/B0FQ5PDG8Y/ref=sr_1_1_sspa?crid=OH1XDGZU3GQ&dib=eyJ2IjoiMSJ9.73yWsP3m367-FlAB9LyGlYZvOGvvXHOWMORMaAyb44Vx75BCOzOX8ltjQkJBINe2ykfwUAIo63E9zHQs1pIr6WZrn4onOooDBWEtVP32B1iqtPXEMfmYMaALfOokHz6n68CPCLs227g5VJctGpmpVpIDfZh6n_gMLOA7FfuMyA1BVqMbCvpFC3omN49NuEOnw1MNCLEfpXEXLH5hazNzAI5YIecPSUVbQGQSn9D06JFPbcgKpnjY_8NyD9Y1ORWb87HBBj6K-CCD-lZnzPYx2fh0fKT9y0cRbMihyUFrN3Q.2xi-fDE90ZOIbdUG1oaUg-_MG4_jDH8QrsJ7N5RLMkw&dib_tag=se&keywords=construction+paper&qid=1783537749&s=industrial&sprefix=construction+p%2Cindustrial%2C226&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 | Battery Pack | Supplys Extra Power | $8.39 | <a href="https://www.amazon.com/DaierTek-Battery-Holder-Storage-Connector/dp/B09N1GDWQ9/ref=sr_1_1_sspa?crid=2NG8HIIY2LO1Y&dib=eyJ2IjoiMSJ9.BwVkKewgXHV07DVF7SWp-647jdarzT0V-pj1i-b6YQi8DuZKf1kizNw0ak7mu3H8It_ay6rjttj3hPmz37OuIuHE50gD0vUfSK5SUBwi6sOYXInmQwbEYYFIndWX7Yf64A9AqVMfPOMaQe6ATxGbIzw4S8-IET81t9ncLUf6XlqhO2-XxdfcOxHkqVzNGu3fvLcu3Hc5Uob-ALgaNbZbNEBoj7uYNpqzZjcZ_xK44WU.TmnHRcQXoEdJ8gke0SEZmRrk70lcg-sZ8J1M4nGqN88&dib_tag=se&keywords=%224%2BAA%2BBattery%2BHolder%2Bwith%2BPremium%2BJumper%2BHeader%2BWires%22%3A&nsdOptOutParam=true&qid=1783450357&sprefix=4%2Baa%2Bbattery%2Bholder%2Bwith%2Bpremium%2Bjumper%2Bheader%2Bwires%2B%2Caps%2C278&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a> |
+
+# Resources
+Schematic made with: https://www.tinkercad.com/
+
+Base Project Instructions: https://www.instructables.com/Smart-Bridge-Using-Arduino-With-Auto-Height-Increa/
+
+Code created with: https://gemini.google.com/app
+
+Imported code into Arduino with: https://arduino.cc/en/software
