@@ -5,7 +5,7 @@ The Automated Smart Bridge isn’t any normal bridge; it raises and lowers itsel
 |:--:|:--:|:--:|:--:|
 | Logan W | Irvine HS | Structural Engineering | Incoming Junior
 
-<img width="1000" height="800" alt="IMG_9308 (1)" src="https://github.com/user-attachments/assets/83a671f6-715e-4569-a1fe-8958649b32cb" />
+<img width="1300" height="800" alt="IMG_9308 (1)" src="https://github.com/user-attachments/assets/83a671f6-715e-4569-a1fe-8958649b32cb" />
 
 # Final Milestone
 
