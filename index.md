@@ -173,10 +173,10 @@ void loop() {
 | Battery Pack | Supplys Extra Power | $8.39 | <a href="https://www.amazon.com/DaierTek-Battery-Holder-Storage-Connector/dp/B09N1GDWQ9/ref=sr_1_1_sspa?crid=2NG8HIIY2LO1Y&dib=eyJ2IjoiMSJ9.BwVkKewgXHV07DVF7SWp-647jdarzT0V-pj1i-b6YQi8DuZKf1kizNw0ak7mu3H8It_ay6rjttj3hPmz37OuIuHE50gD0vUfSK5SUBwi6sOYXInmQwbEYYFIndWX7Yf64A9AqVMfPOMaQe6ATxGbIzw4S8-IET81t9ncLUf6XlqhO2-XxdfcOxHkqVzNGu3fvLcu3Hc5Uob-ALgaNbZbNEBoj7uYNpqzZjcZ_xK44WU.TmnHRcQXoEdJ8gke0SEZmRrk70lcg-sZ8J1M4nGqN88&dib_tag=se&keywords=%224%2BAA%2BBattery%2BHolder%2Bwith%2BPremium%2BJumper%2BHeader%2BWires%22%3A&nsdOptOutParam=true&qid=1783450357&sprefix=4%2Baa%2Bbattery%2Bholder%2Bwith%2Bpremium%2Bjumper%2Bheader%2Bwires%2B%2Caps%2C278&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a> |
 
 # Resources
-Schematic made with: https://www.tinkercad.com/
+Schematic Maker: https://www.tinkercad.com/
 
-Base Project Instructions: https://www.instructables.com/Smart-Bridge-Using-Arduino-With-Auto-Height-Increa/
+Example Project: https://www.instructables.com/Smart-Bridge-Using-Arduino-With-Auto-Height-Increa/
 
-Code created with: https://gemini.google.com/app
+Code Creator: https://gemini.google.com/app
 
-Imported code into Arduino with: https://arduino.cc/en/software
+Code Importer: https://arduino.cc/en/software
